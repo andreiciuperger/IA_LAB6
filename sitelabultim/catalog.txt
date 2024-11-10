@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pagina mea</title>
+</head>
+<body>
+
+<h1>Grupa 2114</h1>
+
+<p>Acest catalog a fost creat de catre Alexandra Chirilă din grupa 2114 semigrupa 1.</p>
+<a href="sitecv.html">CV-ul meu</a>
+
+
+
+<p>Alti colegi</p>
+
+
+    <p>Apasă pe oricare dintre linkurile de mai jos pentru a accesa CV-ul colegilor mei de grupa:</p>
+    <a href="profil_Andrei.html">Andrei Ciuperger</a>
+<br>
+    <a href="profil_Oana.html">Oana Giurgiu</a>
+
+</body>
+</html>
